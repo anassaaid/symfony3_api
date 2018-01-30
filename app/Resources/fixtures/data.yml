@@ -1,0 +1,4 @@
+AppBundle\Entity\Book:
+  book_{10001..10020}:
+    title: <name()>
+    description: <name()>
